@@ -1,5 +1,8 @@
 <mjml>
   <mj-head>
+    <mj-style>
+    	a { color: #b78735; }
+    </mj-style>
     <mj-preview>This tag allows you to set the preview that will be displayed in the inbox of the recipient. It is not displayed on the page at all.</mj-preview>
   </mj-head>
   <mj-body background-color="#f4f4f4">
@@ -24,7 +27,7 @@
         <mj-column>
           <mj-text color="#282828" font-family="Arial" font-size="15px" line-height="24px">
             <p>Dear friend,</p>
-            <p>This past Friday night, Reformation Bible College held its 2018 Commencement Exercises. It was a bittersweet moment. Graduations usually are. We will miss our graduates, but we are glad to see them moving on to what God has planned for them next. This year, however, was especially bittersweet as we remembered the passing of our founder and our first president, Dr. R.C. Sproul. RBC was one of Dr. Sproul’s true joys in the final years of his life. He loved everything about RBC, and we at RBC loved him. So on Friday night, we remembered R.C. with joy, and we celebrated with our graduates.</p>
+            <p>This past Friday night, <a href="https://www.reformationbiblecollege.org/">Reformation Bible College</a> held its 2018 Commencement Exercises. It was a bittersweet moment. Graduations usually are. We will miss our graduates, but we are glad to see them moving on to what God has planned for them next. This year, however, was especially bittersweet as we remembered the passing of our founder and our first president, Dr. R.C. Sproul. RBC was one of Dr. Sproul’s true joys in the final years of his life. He loved everything about RBC, and we at RBC loved him. So on Friday night, we remembered R.C. with joy, and we celebrated with our graduates.</p>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -35,7 +38,7 @@
         </mj-column>
       </mj-section>
       
-      <mj-section>
+      <mj-section padding-bottom="0px">
         <mj-column>
           <mj-text color="#282828" font-family="Times New Roman" font-size="16px" line-height="24px">
  						<p>We were pleased to have Rev. Joel Kim, the new president of Westminster Seminary California, give our commencement address. He spoke on Paul’s injunction from 1 Corinthians 4:1-5 for us all to be faithful servants. We certainly pray for that to be true for all our students. Additionally, we enjoyed hearing Mr. Reginald Lyle, our bagpiper. It would not be an RBC graduation without him. Twenty-one students graduated from our various programs. Our graduates came from all over, and no fewer than twelve states were represented. They are also going places. A number are staying here in Orlando to study at Reformed Theological Seminary. One of our graduates is headed to the University of Buckingham in England to pursue an MA in philosophy. A graduate of our associate’s degree in Theology, Samantha, is headed to business school to finish out her education. She says:</p>
@@ -56,7 +59,21 @@
           <mj-text color="#282828" font-family="Times New Roman" font-size="16px" line-height="24px">
  						<p>Thank you for partnering with us in the education and discipling of our students. Together, we are training the next generation of reformers. Of course, we already have our sights on the first day of the fall 2018 semester. Please pray for our graduates, for our returning and new students, and for the work here at RBC.</p>
             <p>Warm regards in Christ,</p>
- 						<p>Stephen J. Nichols<br />President</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+      <mj-section padding-top="0px">
+        <mj-column width="120px">
+        	<mj-image align="left" padding="0px" height="110px" width="110px" src="https://gallery.mailchimp.com/32a41d449a635dc91898c8337/images/62b99262-aabb-4e66-a3b2-a80e73d3651e.png"></mj-image>
+        </mj-column>
+        <mj-column width="445px">
+          <mj-image padding-top="10px" align="left" padding="0px" height="43px" width="160px" src="https://gallery.mailchimp.com/32a41d449a635dc91898c8337/images/ceb4736a-b30f-429b-825e-46dbb98b15a5.png"></mj-image>
+          <mj-text padding="8px 0" color="#282828" font-family="Times New Roman" font-size="16px" font-weight="bold" line-height="16px">
+          	Stephen J. Nichols
+          </mj-text>
+          <mj-text padding="0" color="#282828" font-family="Times New Roman" font-size="16px" line-height="16px">
+ 						President
           </mj-text>
         </mj-column>
       </mj-section>
